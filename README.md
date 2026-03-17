@@ -1,4 +1,4 @@
-#Qumi — QEMU Virtual Machine Manager
+# Qumi — QEMU Virtual Machine Manager
 A VirtualBox-style graphical frontend for QEMU on Windows. Create, configure, and launch QEMU virtual machines without touching the command line.
 ![Python](https://img.shields.io/badge/Python-3.8+-blue) ![PySide6](https://img.shields.io/badge/GUI-PySide6-green) ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey) ![License](https://img.shields.io/badge/License-MIT-orange)
 Features
