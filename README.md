@@ -1,5 +1,4 @@
 # Qumi
-# QEMU Virtual Machine Manager
 
 A VirtualBox-style graphical frontend for QEMU on Windows. Create, configure, and launch QEMU virtual machines without touching the command line.
 
